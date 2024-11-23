@@ -5,7 +5,7 @@ st.header("Image Classifier")
 page_description = """Bu model rasm taniy oladi"""
 st.markdown(page_description)
 
-model_file_path = "/home/beksulton/Downloads/Vscode/rasmni_tanish.pkl" 
+model_file_path = "rasmni_tanish.pkl" 
 model = None
 
 
